@@ -2,7 +2,7 @@
   The project uses device cam to perform real time object detection using YOLOv3, written using DarkNet architecture. 
 
 ## Acknowledgement : 
-  > 1.The project was made to get a deeper understanding of YOLO and CNN as a part of **Fastrack To ML** course by [Coding Club IITG](https://codingiitg.github.io/index.html)
+  > 1. The project was made to get a deeper understanding of YOLO and CNN as a part of **Fastrack To ML** course by [Coding Club IITG](https://codingiitg.github.io/index.html)
   > 2. I have been strongly inspired and guided by [this](https://towardsdatascience.com/yolo-v3-object-detection-with-keras-461d2cfccef6) article.
 
 ## DataSet :
